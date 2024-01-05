@@ -22,10 +22,22 @@ Make sure you have the following installed on your system:
 
     ```bash
     cd python-exercises
-    
+
+3. To see all the files in Linux or Mac
+
+    ```bash
+    ls
+    ```
+
+4. To see all the files in Windows
+
+   ```bash
+   dir
+
+
 ### Usage
 
-3. Explain how to use and run the exercises. Provide any command-line examples or instructions.
+5. Explain how to use and run the exercises. Provide any command-line examples or instructions.
 
     ```bash
         python exercise1.py
