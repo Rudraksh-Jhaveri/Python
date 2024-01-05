@@ -1,5 +1,7 @@
 ### Exercises: Level 2
 
+- [Excercises 2 Output](#output)
+
 1. The following is a list of 10 students ages:
 
 ```sh
@@ -17,3 +19,9 @@ ages = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]
 1. Find the middle country(ies) in the [countries list]
 1. Divide the countries list into two equal lists if it is even if not one more country for the first half.
 1. ['China', 'Russia', 'USA', 'Finland', 'Sweden', 'Norway', 'Denmark']. Unpack the first three countries and the rest as scandic countries.
+
+## Output
+
+![image](https://github.com/Rudraksh-Jhaveri/Python/assets/155703131/5f79769d-0e1e-4b5b-a92b-770ceae68969)
+
+![image](https://github.com/Rudraksh-Jhaveri/Python/assets/155703131/bc2af566-ae2b-43dd-abf8-37085ee6710a)
