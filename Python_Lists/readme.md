@@ -4,7 +4,7 @@
 
 # [Lists Exercises 2 Code](https://github.com/Rudraksh-Jhaveri/Python/blob/main/Python_Lists/Lists%20Exercises%20Level%202_Rudraksh_Jhaveri/Exercises_Level_2.py)
 
-- [Lists Exercises 2 Output](#https://github.com/Rudraksh-Jhaveri/Python/tree/main/Python_Lists/Lists%20Exercises%20Level%202_Rudraksh_Jhaveri#output)
+- [Lists Exercises 2 Output](https://github.com/Rudraksh-Jhaveri/Python/tree/main/Python_Lists/Lists%20Exercises%20Level%202_Rudraksh_Jhaveri#output)
 
 - [Lists](#lists)
     - [How to Create a List](#how-to-create-a-list)
