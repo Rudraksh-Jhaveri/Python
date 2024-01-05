@@ -34,6 +34,8 @@
     back_end = ['Node','Express', 'MongoDB']
     ```
 
+27. After joining the lists in question 26. Copy the joined list and assign it to a variable full_stack. Then insert Python and SQL after Redux.
+
 
 
 # Output
@@ -45,4 +47,3 @@
 ![image](https://github.com/Rudraksh-Jhaveri/Python/assets/155703131/51e40ca5-a764-4614-8dae-d7988ddb6804)
 
 
-27. After joining the lists in question 26. Copy the joined list and assign it to a variable full_stack. Then insert Python and SQL after Redux.
