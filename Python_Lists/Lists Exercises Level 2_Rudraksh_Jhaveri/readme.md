@@ -2,6 +2,8 @@
 
 - [Excercises 2 Output](#output)
 
+- [Excercises 2 Code](https://github.com/Rudraksh-Jhaveri/Python/blob/main/Python_Lists/Lists%20Exercises%20Level%202_Rudraksh_Jhaveri/Exercises_Level_2.py)
+
 1. The following is a list of 10 students ages:
 
 ```sh
