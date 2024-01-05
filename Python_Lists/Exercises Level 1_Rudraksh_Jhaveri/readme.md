@@ -2,6 +2,8 @@
 
 ### Exercises: Level 1
 
+-  [Excercises 1 Output](#output)
+
 1. Declare an empty list
 2. Declare a list with more than 5 items
 3. Find the length of your list
