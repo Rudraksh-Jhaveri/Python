@@ -6,6 +6,8 @@
 
 - [Lists Exercises 2 Output](https://github.com/Rudraksh-Jhaveri/Python/tree/main/Python_Lists/Lists%20Exercises%20Level%202_Rudraksh_Jhaveri#output)
 
+
+
 - [Lists](#lists)
     - [How to Create a List](#how-to-create-a-list)
     - [Accessing List Items Using Positive Indexing](#accessing-list-items-using-positive-indexing)
