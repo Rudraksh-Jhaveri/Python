@@ -40,7 +40,7 @@ Make sure you have the following installed on your system:
 
     ```bash
         python exercise1.py
-
+    ```
 
 ### Contributing
 
