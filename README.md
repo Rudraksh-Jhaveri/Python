@@ -33,8 +33,7 @@ Make sure you have the following installed on your system:
 
    ```bash
    dir
-
-
+    ```
 ### Usage
 
 5. Explain how to use and run the exercises. Provide any command-line examples or instructions.
