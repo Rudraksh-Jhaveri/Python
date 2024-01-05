@@ -3,7 +3,7 @@
 ### Exercises: Level 1
 
 -  [Excercises 1 Output](#output)
-
+- [Excercises 1 Code](#https://github.com/Rudraksh-Jhaveri/Python/blob/main/Python_Lists/Lists%20Exercises%20Level%201_Rudraksh_Jhaveri/Exercises_Level_1.py)
 1. Declare an empty list
 2. Declare a list with more than 5 items
 3. Find the length of your list
