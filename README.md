@@ -22,14 +22,14 @@ Make sure you have the following installed on your system:
 
     ```bash
     cd python-exercises
-    ```
+    
 ### Usage
 
 Explain how to use and run the exercises. Provide any command-line examples or instructions.
 
     ```bash
         python exercise1.py
-    ```
+
 
 ### Contributing
 
