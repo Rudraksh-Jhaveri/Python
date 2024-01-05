@@ -25,7 +25,7 @@ Make sure you have the following installed on your system:
     
 ### Usage
 
-Explain how to use and run the exercises. Provide any command-line examples or instructions.
+3. Explain how to use and run the exercises. Provide any command-line examples or instructions.
 
     ```bash
         python exercise1.py
