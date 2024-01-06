@@ -36,7 +36,7 @@ Make sure you have the following installed on your system:
     ```
 ### Usage
 
-5. Explain how to use and run the exercises. Provide any command-line examples or instructions.
+5. Explain how to use and run the exercises.
 
     ```bash
     python exercise1.py
