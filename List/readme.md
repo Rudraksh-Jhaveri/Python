@@ -6,34 +6,6 @@
 
 - [Lists Exercises 2 Output](https://github.com/Rudraksh-Jhaveri/Python/tree/main/Python_Lists/Lists%20Exercises%20Level%202_Rudraksh_Jhaveri#output)
 
-
-
-- [Lists](#lists)
-    - [How to Create a List](#how-to-create-a-list)
-    - [Accessing List Items Using Positive Indexing](#accessing-list-items-using-positive-indexing)
-    - [Accessing List Items Using Negative Indexing](#accessing-list-items-using-negative-indexing)
-    - [Unpacking List Items](#unpacking-list-items)
-    - [Slicing Items from a List](#slicing-items-from-a-list)
-    - [Modifying Lists](#modifying-lists)
-    - [Checking Items in a List](#checking-items-in-a-list)
-    - [Adding Items to a List](#adding-items-to-a-list)
-    - [Inserting Items into a List](#inserting-items-into-a-list)
-    - [Removing Items from a List](#removing-items-from-a-list)
-    - [Removing Items Using Pop](#removing-items-using-pop)
-    - [Removing Items Using Del](#removing-items-using-del)
-    - [Clearing List Items](#clearing-list-items)
-    - [Copying a List](#copying-a-list)
-    - [Joining Lists](#joining-lists)
-    - [Counting Items in a List](#counting-items-in-a-list)
-    - [Finding Index of an Item](#finding-index-of-an-item)
-    - [Reversing a List](#reversing-a-list)
-    - [Sorting List Items](#sorting-list-items)
-  - [💻 Exercises: Day 5](#-exercises-day-5)
-    - [Exercises: Level 1](#exercises-level-1)
-    - [Exercises: Level 2](#exercises-level-2)
-
-# Day 5
-
 ## Lists
 
 There are four collection data types in Python :
