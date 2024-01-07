@@ -1,13 +1,7 @@
-- [Day 6:](#day-6)
-  - [Tuples](#tuples)
-    - [Creating a Tuple](#creating-a-tuple)
-    - [Tuple length](#tuple-length)
-    - [Accessing Tuple Items](#accessing-tuple-items)
-    - [Slicing tuples](#slicing-tuples)
-    - [Changing Tuples to Lists](#changing-tuples-to-lists)
-    - [Checking an Item in a Tuple](#checking-an-item-in-a-tuple)
-    - [Joining Tuples](#joining-tuples)
-    - [Deleting Tuples](#deleting-tuples)
+## [Tuple Excercises 1 Code](https://github.com/Rudraksh-Jhaveri/Python/blob/main/Tuple/Tuple%20Excercises%20Level%201%20Rudraksh%20Jhaveri/Tuple_Exercises_Level_1.py)
+
+## [Tuple Excercises 2 Code](https://github.com/Rudraksh-Jhaveri/Python/blob/main/Tuple/Tuple%20Excercises%20Level%202%20Rudraksh%20Jhaveri/Tuple_Excercises_Level_2.py)
+
   - [💻 Exercises: Day 6](#-exercises-day-6)
     - [Exercises: Level 1](#exercises-level-1)
     - [Exercises: Level 2](#exercises-level-2)
