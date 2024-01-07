@@ -1,6 +1,6 @@
 ## 💻 Exercises: Day 8
 
-- [Dictionaries Exercises Code](https://github.com/Rudraksh-Jhaveri/Python/blob/main/Dictionaries/Exercises%20Level%201%20Rudraksh_Jhaveri/Dictionaries_Excercises_Level_1.py)
+- [Dictionaries Exercises Code](https://github.com/Rudraksh-Jhaveri/Python/blob/main/Dictionaries/Dictionaries%20Exercises%20Rudraksh_Jhaveri/Dictionaries_Excercises.py)
 
 - [Dictionaries Exercises Output](#output)
 
