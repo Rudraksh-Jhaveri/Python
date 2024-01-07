@@ -1,3 +1,4 @@
+# Dictionaries Exercises
 # 1. Create  an empty dictionary called dog
 dog = {}
 print("Empty Dictionary Dog :", dog)
