@@ -1,19 +1,6 @@
-- [📘 Day 8](#-day-8)
-  - [Dictionaries](#dictionaries)
-    - [Creating a Dictionary](#creating-a-dictionary)
-    - [Dictionary Length](#dictionary-length)
-    - [Accessing Dictionary Items](#accessing-dictionary-items)
-    - [Adding Items to a Dictionary](#adding-items-to-a-dictionary)
-    - [Modifying Items in a Dictionary](#modifying-items-in-a-dictionary)
-    - [Checking Keys in a Dictionary](#checking-keys-in-a-dictionary)
-    - [Removing Key and Value Pairs from a Dictionary](#removing-key-and-value-pairs-from-a-dictionary)
-    - [Changing Dictionary to a List of Items](#changing-dictionary-to-a-list-of-items)
-    - [Clearing a Dictionary](#clearing-a-dictionary)
-    - [Deleting a Dictionary](#deleting-a-dictionary)
-    - [Copy a Dictionary](#copy-a-dictionary)
-    - [Getting Dictionary Keys as a List](#getting-dictionary-keys-as-a-list)
-    - [Getting Dictionary Values as a List](#getting-dictionary-values-as-a-list)
-  - [💻 Exercises: Day 8](#-exercises-day-8)
+# Dictionaries Exercises Code(https://github.com/Rudraksh-Jhaveri/Python/blob/main/Dictionaries/Exercises%20Level%201%20Rudraksh_Jhaveri/Dictionaries_Excercises_Level_1.py)
+
+-[Dictionaries Exercises Output](https://private-user-images.githubusercontent.com/155703131/294754837-27e30e6a-0784-4db1-87ee-14a5e0145b39.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ2Mjc1ODQsIm5iZiI6MTcwNDYyNzI4NCwicGF0aCI6Ii8xNTU3MDMxMzEvMjk0NzU0ODM3LTI3ZTMwZTZhLTA3ODQtNGRiMS04N2VlLTE0YTVlMDE0NWIzOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEwN1QxMTM0NDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZmE4NDJiYzUwNTc3YmNhNjJhYjc3N2ExN2E1OThmYzNlYmM1ZjBhNmJiYjhhYzI2NmVhZWY3N2M3M2ZjYmEyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.LXa7PRqqPUcDEOYSEcvBLFYMBXPelRl3dbg7HgYHMRY)
 
 # 📘 Day 8
 
