@@ -2,10 +2,6 @@
 
 ## [Tuple Excercises 2 Code](https://github.com/Rudraksh-Jhaveri/Python/blob/main/Tuple/Tuple%20Excercises%20Level%202%20Rudraksh%20Jhaveri/Tuple_Excercises_Level_2.py)
 
-  - [💻 Exercises: Day 6](#-exercises-day-6)
-    - [Exercises: Level 1](#exercises-level-1)
-    - [Exercises: Level 2](#exercises-level-2)
-
 # Day 6:
 
 ## Tuples
