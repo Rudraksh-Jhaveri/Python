@@ -1,4 +1,6 @@
-### String Operations
+[![Output Of Practice_Tasks](https://github.com/Rudraksh-Jhaveri/Python/blob/main/Practice_Tasks/Practice_Tasks-Output.png)](https://github.com/Rudraksh-Jhaveri/Python/blob/main/Practice_Tasks/Practice_Tasks-Output.png)
+
+### Practice Tasks Questions
 
 1. **Reverse the given string:**  
    Reverse the given string. (You can take any string)
